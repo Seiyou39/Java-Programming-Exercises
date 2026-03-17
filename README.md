@@ -1,9 +1,26 @@
 # Java Programming Exercises
 
-This repository contains a collection of programming exercises completed in a Java programming course.
-
 **Student:** Jingyang Zhang  
 **Student ID:** 15824071  
+
+本リポジトリは、青山学院大学のJavaプログラミング授業における演習課題をまとめたものです。
+
+各演習では、Javaの基本構文からオブジェクト指向設計、ファイル処理、数値計算、GUIプログラミング、機械学習アルゴリズムまで、段階的に学習しました。
+
+主な内容：
+
+- Java基礎（変数・制御構文・配列）
+- オブジェクト指向プログラミング
+- ファイル入出力
+- データ構造とアルゴリズム
+- 数値計算（行列計算・ニュートン法など）
+- GUI開発（Swing）
+- テキスト分析・TF-IDF
+- 主成分分析（PCA）
+
+これらの演習を通して、基礎から応用までのプログラミング能力を実践的に習得しました。
+
+This repository contains a collection of programming exercises completed in a Java programming course.
 
 The exercises cover core topics of Java programming, including object-oriented programming, file processing, numerical computation, GUI programming, and basic machine learning algorithms.
 
