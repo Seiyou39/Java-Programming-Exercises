@@ -10,6 +10,7 @@ The exercises cover core topics of Java programming, including object-oriented p
 ---
 
 ## Repository Structure
+```text
 exercises
 ├─ e01
 ├─ e02
@@ -26,7 +27,7 @@ exercises
 ├─ e13
 └─ e14
 Each directory corresponds to one exercise assignment.
-
+```
 ---
 
 ## Exercises Overview
